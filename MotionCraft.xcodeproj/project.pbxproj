@@ -11,7 +11,12 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		1A1ACF4F2D571B6900EB8965 /* MotionCraft */ = {
+		1A1ACF5F2D57212600EB8965 /* New Folder */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "New Folder";
+			sourceTree = "<group>";
+		};
+		1A1ACF6F2D57212C00EB8965 /* MotionCraft */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = MotionCraft;
 			sourceTree = "<group>";
@@ -32,7 +37,8 @@
 		1A1ACF442D571B6900EB8965 = {
 			isa = PBXGroup;
 			children = (
-				1A1ACF4F2D571B6900EB8965 /* MotionCraft */,
+				1A1ACF6F2D57212C00EB8965 /* MotionCraft */,
+				1A1ACF5F2D57212600EB8965 /* New Folder */,
 				1A1ACF4E2D571B6900EB8965 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +67,8 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				1A1ACF4F2D571B6900EB8965 /* MotionCraft */,
+				1A1ACF5F2D57212600EB8965 /* New Folder */,
+				1A1ACF6F2D57212C00EB8965 /* MotionCraft */,
 			);
 			name = MotionCraft;
 			packageProductDependencies = (

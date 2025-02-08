@@ -1,0 +1,24 @@
+{
+  "images": [
+    {
+      "name": "image1",
+      "description": "The first MacBook was introduced by Apple in 2006, replacing the iBook series."
+    },
+    {
+      "name": "image2",
+      "description": "Swift was announced by Apple in 2014 as a modern, fast, and safe programming language."
+    },
+    {
+      "name": "image3",
+      "description": "The MacBook Air, released in 2008, revolutionized ultra-thin laptop design."
+    },
+    {
+      "name": "image4",
+      "description": "Swift is an open-source language, and its source code is hosted on GitHub."
+    },
+    {
+      "name": "image5",
+      "description": "The M1 chip, launched in 2020, brought significant performance and battery improvements to MacBooks."
+    }
+  ]
+}

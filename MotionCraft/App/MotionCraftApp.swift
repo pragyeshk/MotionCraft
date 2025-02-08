@@ -8,10 +8,13 @@
 import SwiftUI
 
 @main
-struct MotionCraftApp: App {
+struct MySwiftUIAppApp: App {
+    @StateObject private var coordinator = AppCoordinator()
+
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            coordinator.rootView
         }
     }
 }
+
